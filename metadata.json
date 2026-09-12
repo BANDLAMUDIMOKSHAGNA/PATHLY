@@ -1,0 +1,6 @@
+{
+  "name": "Pathly - Indoor Navigation Platform",
+  "description": "Indoor navigation platform for colleges, universities, malls, hospitals, and complex spaces. Find your way inside, effortlessly.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
